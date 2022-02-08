@@ -1,0 +1,3 @@
+Km=int(input('enter kilometre:')) 
+Cm=km*100000
+Print('kilometers to centimeters conversion is:',cm)
